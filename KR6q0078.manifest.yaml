@@ -1,0 +1,1246 @@
+canonical_identifier: bkk:krp/KR6q0078/v1
+canonical_location: https://kanripo.org/bkk/KR6q0078/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛果圜悟禪師碧巖錄
+  identifiers:
+    alt_id:
+    - T48n2003
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T48/T48n2003.xml
+    old_id: T48n2003
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 乙
+  label: 乙
+  source_xml_id: wit2
+- short: 丙
+  label: 丙
+  source_xml_id: wit3
+- short: 原
+  label: 原
+  source_xml_id: wit5
+- short: 內
+  label: 內
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0078_000.yaml, hash: 'sha256:06f5ae9b689e71fc9d7adf5b865e0407c6bee87d2d5cc05e44f8c29692f527c5'}
+  - {seq: 1, filename: KR6q0078_001.yaml, hash: 'sha256:e78899dfd0c107081e37ed646bc59f456ecc50f890d7797dbff14a83fc90f992'}
+  - {seq: 2, filename: KR6q0078_002.yaml, hash: 'sha256:67fc7fd86994faeae4f4d1cc2dbf67069264c6553966efc34b25fd482616a22c'}
+  - {seq: 3, filename: KR6q0078_003.yaml, hash: 'sha256:bcf17398cf491021f33785b3647c746cd2228637d7c45f3bfdc20e93e2971cfd'}
+  - {seq: 4, filename: KR6q0078_004.yaml, hash: 'sha256:a31235d5b7017ab0ae8212bb86e1c43c968f06bf84baf50e3da60f0c1a2f09b0'}
+  - {seq: 5, filename: KR6q0078_005.yaml, hash: 'sha256:950dfcdb478b5399f3d133cc777dfccdb92a99ea2e4b6f8a0cef1b1861339191'}
+  - {seq: 6, filename: KR6q0078_006.yaml, hash: 'sha256:e083865743a403816eaf3bb815cb05bb5472faeeb3761059d8195047869b1ad1'}
+  - {seq: 7, filename: KR6q0078_007.yaml, hash: 'sha256:a33bb2ffe6a07e28804ff690075752c5bc9392e8e4ba1e587a1e89bf03e844f3'}
+  - {seq: 8, filename: KR6q0078_008.yaml, hash: 'sha256:95445a7a7459e825e4a90226f8df9b438a35b2e9814dd9dec11d3501ac2d11e1'}
+  - {seq: 9, filename: KR6q0078_009.yaml, hash: 'sha256:2cc1db2197163b7c257de08097c49d4f2b5d68fd27b2c82d23542e05a54fe5ab'}
+  - {seq: 10, filename: KR6q0078_010.yaml, hash: 'sha256:7a6b49c47d28c4b65eba67116df4c34694d959a42251f35e1a6e6e770d2bf120'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0078_000.markers.yaml, hash: 'sha256:45588dd461b0bdab36b32843632dbf34966c5b326b97133bd30757758c3f5d4d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0078_001.markers.yaml, hash: 'sha256:109de1f1dd36f741f4e2edf4b933c19816359bee7c73734369393f7f522d6be1'}
+  - {seq: 2, role: markers, filename: assets/KR6q0078_002.markers.yaml, hash: 'sha256:8198d9e7e3e30741202b0a974339f318e036cad3e3989d07b0a0ae5900adbf3c'}
+  - {seq: 3, role: markers, filename: assets/KR6q0078_003.markers.yaml, hash: 'sha256:8637c2ffcd4062ba9f21a2fa7127236af23069fc33d05bed8be3a816d4a65ff6'}
+  - {seq: 4, role: markers, filename: assets/KR6q0078_004.markers.yaml, hash: 'sha256:51a9207023b28084364848860f8dcf51985b6a6f84f9f76b28f7aa463b13a2ee'}
+  - {seq: 5, role: markers, filename: assets/KR6q0078_005.markers.yaml, hash: 'sha256:ca14a3e869683b73877caab61db57af744fe57e745c8b40c45d2a82d43845670'}
+  - {seq: 6, role: markers, filename: assets/KR6q0078_006.markers.yaml, hash: 'sha256:4c024d51b359d5e903164022a34aa4f333b6d94368d090fcc2c46a53031fb665'}
+  - {seq: 7, role: markers, filename: assets/KR6q0078_007.markers.yaml, hash: 'sha256:1f254ad23c3211626ae1154ff0562f68d6d1200e6db1c66e933ffb709d9c3864'}
+  - {seq: 8, role: markers, filename: assets/KR6q0078_008.markers.yaml, hash: 'sha256:603c25c852b205476e200f00adfd837faba5ee03090dff8a1deaa772e5fa0cb3'}
+  - {seq: 9, role: markers, filename: assets/KR6q0078_009.markers.yaml, hash: 'sha256:3d8bd17344af58d22f2329986deecd33b6f3a73ba449c52c4239db1e749d471f'}
+  - {seq: 10, role: markers, filename: assets/KR6q0078_010.markers.yaml, hash: 'sha256:767e3d2cc008a518022548daafde2dcdb253c0a658b0a9c2925b426fdf15312d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0078_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 碧巖錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 16866
+  label: 佛果圜悟禪師碧巖錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-2
+    span:
+    - body
+    - 2179
+    - 2179
+  label: '2'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-3
+    span:
+    - body
+    - 3919
+    - 3919
+  label: '3'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-4
+    span:
+    - body
+    - 4853
+    - 4853
+  label: '4'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-5
+    span:
+    - body
+    - 7168
+    - 7168
+  label: '5'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-6
+    span:
+    - body
+    - 8542
+    - 8542
+  label: '6'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-7
+    span:
+    - body
+    - 10659
+    - 10659
+  label: '7'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-8
+    span:
+    - body
+    - 12190
+    - 12190
+  label: '8'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-9
+    span:
+    - body
+    - 13619
+    - 13619
+  label: '9'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-10
+    span:
+    - body
+    - 15130
+    - 15130
+  label: '10'
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0078_T_001-mulu-11
+    span:
+    - body
+    - 16351
+    - 16351
+  label: 夾山無礙禪師降魔表
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 15603
+  label: 佛果圜悟禪師碧巖錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '11'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-2
+    span:
+    - body
+    - 2122
+    - 2122
+  label: '12'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-3
+    span:
+    - body
+    - 3615
+    - 3615
+  label: '13'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-4
+    span:
+    - body
+    - 4859
+    - 4859
+  label: '14'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-5
+    span:
+    - body
+    - 5668
+    - 5668
+  label: '15'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-6
+    span:
+    - body
+    - 7050
+    - 7050
+  label: '16'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-7
+    span:
+    - body
+    - 8598
+    - 8598
+  label: '17'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-8
+    span:
+    - body
+    - 9608
+    - 9608
+  label: '18'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-9
+    span:
+    - body
+    - 11564
+    - 11564
+  label: '19'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0078_T_002-mulu-10
+    span:
+    - body
+    - 13115
+    - 13115
+  label: '20'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 12573
+  label: 佛果圜悟禪師碧巖錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '21'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-2
+    span:
+    - body
+    - 1152
+    - 1152
+  label: '22'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-3
+    span:
+    - body
+    - 3632
+    - 3632
+  label: '23'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-4
+    span:
+    - body
+    - 4704
+    - 4704
+  label: '24'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-5
+    span:
+    - body
+    - 5756
+    - 5756
+  label: '25'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-6
+    span:
+    - body
+    - 7630
+    - 7630
+  label: '26'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-7
+    span:
+    - body
+    - 8574
+    - 8574
+  label: '27'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-8
+    span:
+    - body
+    - 9682
+    - 9682
+  label: '28'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-9
+    span:
+    - body
+    - 11007
+    - 11007
+  label: '29'
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0078_T_003-mulu-10
+    span:
+    - body
+    - 11877
+    - 11877
+  label: '30'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 12961
+  label: 佛果圜悟禪師碧巖錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '31'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-2
+    span:
+    - body
+    - 2092
+    - 2092
+  label: '32'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-3
+    span:
+    - body
+    - 2897
+    - 2897
+  label: '33'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-4
+    span:
+    - body
+    - 4044
+    - 4044
+  label: '34'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-5
+    span:
+    - body
+    - 5163
+    - 5163
+  label: '35'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-6
+    span:
+    - body
+    - 6300
+    - 6300
+  label: '36'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-7
+    span:
+    - body
+    - 7393
+    - 7393
+  label: '37'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-8
+    span:
+    - body
+    - 8364
+    - 8364
+  label: '38'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-9
+    span:
+    - body
+    - 10985
+    - 10985
+  label: '39'
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0078_T_004-mulu-10
+    span:
+    - body
+    - 11817
+    - 11817
+  label: '40'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 10802
+  label: 佛果圜悟禪師碧巖錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '41'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-2
+    span:
+    - body
+    - 990
+    - 990
+  label: '42'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-3
+    span:
+    - body
+    - 2045
+    - 2045
+  label: '43'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-4
+    span:
+    - body
+    - 3231
+    - 3231
+  label: '44'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-5
+    span:
+    - body
+    - 4631
+    - 4631
+  label: '45'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-6
+    span:
+    - body
+    - 5691
+    - 5691
+  label: '46'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-7
+    span:
+    - body
+    - 6702
+    - 6702
+  label: '47'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-8
+    span:
+    - body
+    - 7704
+    - 7704
+  label: '48'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-9
+    span:
+    - body
+    - 9132
+    - 9132
+  label: '49'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0078_T_005-mulu-10
+    span:
+    - body
+    - 10082
+    - 10082
+  label: '50'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 11328
+  label: 佛果圜悟禪師碧巖錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '51'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-2
+    span:
+    - body
+    - 2062
+    - 2062
+  label: '52'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-3
+    span:
+    - body
+    - 2932
+    - 2932
+  label: '53'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-4
+    span:
+    - body
+    - 4065
+    - 4065
+  label: '54'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-5
+    span:
+    - body
+    - 4755
+    - 4755
+  label: '55'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-6
+    span:
+    - body
+    - 6498
+    - 6498
+  label: '56'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-7
+    span:
+    - body
+    - 7855
+    - 7855
+  label: '57'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-8
+    span:
+    - body
+    - 8593
+    - 8593
+  label: '58'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-9
+    span:
+    - body
+    - 9157
+    - 9157
+  label: '59'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0078_T_006-mulu-10
+    span:
+    - body
+    - 9924
+    - 9924
+  label: '60'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 10446
+  label: 佛果圜悟禪師碧巖錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '61'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-2
+    span:
+    - body
+    - 854
+    - 854
+  label: '62'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-3
+    span:
+    - body
+    - 2099
+    - 2099
+  label: '63'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-4
+    span:
+    - body
+    - 2775
+    - 2775
+  label: '64'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-5
+    span:
+    - body
+    - 3437
+    - 3437
+  label: '65'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-6
+    span:
+    - body
+    - 4918
+    - 4918
+  label: '66'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-7
+    span:
+    - body
+    - 6092
+    - 6092
+  label: '67'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-8
+    span:
+    - body
+    - 7152
+    - 7152
+  label: '68'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-9
+    span:
+    - body
+    - 8357
+    - 8357
+  label: '69'
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0078_T_007-mulu-10
+    span:
+    - body
+    - 9464
+    - 9464
+  label: '70'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 10963
+  label: 佛果圜悟禪師碧巖錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '71'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-2
+    span:
+    - body
+    - 443
+    - 443
+  label: '72'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-3
+    span:
+    - body
+    - 898
+    - 898
+  label: '73'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-4
+    span:
+    - body
+    - 2514
+    - 2514
+  label: '74'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-5
+    span:
+    - body
+    - 3369
+    - 3369
+  label: '75'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-6
+    span:
+    - body
+    - 5090
+    - 5090
+  label: '76'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-7
+    span:
+    - body
+    - 6490
+    - 6490
+  label: '77'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-8
+    span:
+    - body
+    - 7427
+    - 7427
+  label: '78'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-9
+    span:
+    - body
+    - 8360
+    - 8360
+  label: '79'
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0078_T_008-mulu-10
+    span:
+    - body
+    - 9535
+    - 9535
+  label: '80'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 12578
+  label: 佛果圜悟禪師碧巖錄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '81'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-2
+    span:
+    - body
+    - 1336
+    - 1336
+  label: '82'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-3
+    span:
+    - body
+    - 2457
+    - 2457
+  label: '83'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-4
+    span:
+    - body
+    - 3252
+    - 3252
+  label: '84'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-5
+    span:
+    - body
+    - 4762
+    - 4762
+  label: '85'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-6
+    span:
+    - body
+    - 6254
+    - 6254
+  label: '86'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-7
+    span:
+    - body
+    - 7170
+    - 7170
+  label: '87'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-8
+    span:
+    - body
+    - 8146
+    - 8146
+  label: '88'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-9
+    span:
+    - body
+    - 9869
+    - 9869
+  label: '89'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0078_T_009-mulu-10
+    span:
+    - body
+    - 11515
+    - 11515
+  label: '90'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 15308
+  label: 佛果圜悟禪師碧巖錄卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: '91'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-2
+    span:
+    - body
+    - 1337
+    - 1337
+  label: '92'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-3
+    span:
+    - body
+    - 2129
+    - 2129
+  label: '93'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-4
+    span:
+    - body
+    - 2760
+    - 2760
+  label: '94'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-5
+    span:
+    - body
+    - 3946
+    - 3946
+  label: '95'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-6
+    span:
+    - body
+    - 5151
+    - 5151
+  label: '96'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-7
+    span:
+    - body
+    - 6853
+    - 6853
+  label: '97'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-8
+    span:
+    - body
+    - 8448
+    - 8448
+  label: '98'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-9
+    span:
+    - body
+    - 10250
+    - 10250
+  label: '99'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-10
+    span:
+    - body
+    - 12066
+    - 12066
+  label: '100'
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-11
+    span:
+    - body
+    - 13357
+    - 13357
+  label: 後序
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-12
+    span:
+    - body
+    - 13521
+    - 13521
+  label: 重刊圜悟禪師碧巖集疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-13
+    span:
+    - body
+    - 13810
+    - 13810
+  label: 比丘淨日序
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-14
+    span:
+    - body
+    - 13908
+    - 13908
+  label: 比丘𭤔陵序
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-15
+    span:
+    - body
+    - 14139
+    - 14139
+  label: 海粟老人馮子振序
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0078_T_010-mulu-16
+    span:
+    - body
+    - 15175
+    - 15175
+  label: 華園玉桃菴主萬寧玄彙序
+  type: mulu
+  level: 1
+hash: sha256:7549b14b63cc3039e7419638802a51c5ad5d04630e7c365fda11d8ff0ddb9540
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
