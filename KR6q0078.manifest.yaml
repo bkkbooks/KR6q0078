@@ -36,7 +36,7 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0078_000.yaml, hash: 'sha256:5cbe9caa4a7aa0f30f164e7a08adb0cd38d4b4d67dd293005e81404818b51035'}
+  - {seq: 0, filename: KR6q0078_000.yaml, hash: 'sha256:d19d8c800e934499e1e2717009d96c0adeac48b35e2ae819bb2beb3dcaaf7d58'}
   - {seq: 1, filename: KR6q0078_001.yaml, hash: 'sha256:fbf58580b1b62100184bf9c521b7ff5c3ec1084b8507982daf57d7756a71e338'}
   - {seq: 2, filename: KR6q0078_002.yaml, hash: 'sha256:641941e514bb338f7212b8d5f5ef48f3f349c1c45a8e9f27cb15b53df94a3664'}
   - {seq: 3, filename: KR6q0078_003.yaml, hash: 'sha256:22b3f2284397983ee3b50e4cdf6a7d35dd4353dced9c460e9eee205a81b910ba'}
@@ -48,7 +48,7 @@ assets:
   - {seq: 9, filename: KR6q0078_009.yaml, hash: 'sha256:82e24d8b5a4346982e11753d1b02691eedb6eb55cd79ea60fc266da6b22afd2d'}
   - {seq: 10, filename: KR6q0078_010.yaml, hash: 'sha256:3122f04c8490441b57ff77213e9c22f814cd74a20c0e9e51b95dd278792b1dab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0078_000.markers.yaml, hash: 'sha256:e8b22f94d6317aab432823f599c5e653da0354b9785e06e61445fc00a27cc663'}
+  - {seq: 0, role: markers, filename: assets/KR6q0078_000.markers.yaml, hash: 'sha256:2f7393119bdc3e0df1c612e5487c121dc1290e614ff4d2f6367f495d6f3f9519'}
   - {seq: 1, role: markers, filename: assets/KR6q0078_001.markers.yaml, hash: 'sha256:585b3e15b07241911cf5c9cd67ed05b38afec39d28a394c611c24e9e33a22073'}
   - {seq: 2, role: markers, filename: assets/KR6q0078_002.markers.yaml, hash: 'sha256:47149def053b45b2a942cc84a0a25de99d29c7fdac88d58d5f3b0e8756f73f67'}
   - {seq: 3, role: markers, filename: assets/KR6q0078_003.markers.yaml, hash: 'sha256:c3ab1b96328d1d764a216ad8a6a500f8d8b5b1773afff7905ba08347671e216e'}
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0078_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 碧巖錄序
@@ -1240,7 +1240,7 @@ table_of_contents:
   label: 華園玉桃菴主萬寧玄彙序
   type: mulu
   level: 1
-hash: sha256:0d26c0518bc7d6a9716ccbd907ab86cc0ea843917df01f6d021d3dd2be9cb114
+hash: sha256:e0cd4dc1c65ed45fa242b9e708b9241324f1ce34aae5e53ffc4f4b279abd0603
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
